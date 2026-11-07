@@ -1,7 +1,7 @@
 <h1 align="center">Olá👋, me chamo Caio</h1>
 <h3 align="center">Um estudante de ciência da computação</h3>
 
-- 🔭 Estou atualmente trabalhando na <a href="https://www.linkedin.com/company/tech2work/posts/?feedView=all"> Tech2Work </a> como Desenvoledor junior
+- 🔭 Estou atualmente trabalhando na <a href="https://www.linkedin.com/company/a5x"> A5X </a> como Desenvoledor junior
   
 - 🌱 Estou atualmente estudando **Fullstack, SpringBoot, AWS Cloud e Apache Kafka**
 
